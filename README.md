@@ -12,6 +12,7 @@ I'm Filip Skoczylas, an ambitious and fast-learning beginner programmer. My main
 
 <a href="https://www.github.com/Fivlas" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Fivlas?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<img src="https://komarev.com/ghpvc/?username=fivlas&label=Profile%20views&color=0891b2&style=flat-square" alt="fivlas" />
 
 ### Skills
 
