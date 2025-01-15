@@ -4,11 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-I'm Filip Skoczylas, an ambitious and fast-learning beginner programmer. My main field is TypeScript and JavaScript languages, as well as frameworks such as React (using Vite) and NextJS for the backend area. I have experience in working with websockets (socket.io)
+I'm Filip, an ambitious and fast-learning beginner programmer. My main field is TypeScript and JavaScript languages, as well as frameworks such as React (using Vite) and NextJS for the backend area. I have experience in working with websockets (socket.io)
 
 * 🌍  I'm based in Poland
 * 🖥️  See my portfolio at [My portfolio](http://fivlas.pl)
-* ✉️  You can contact me at [filip.skoczylas777007@gmail.com](mailto:filip.skoczylas777007@gmail.com)
 
 <a href="https://www.github.com/Fivlas" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Fivlas?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
