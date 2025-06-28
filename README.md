@@ -1,11 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Filip
 =======================================================================================================================================
 
-Web Developer
+FullStack Developer
 -------------
-
-I'm Filip, an ambitious and fast-learning beginner programmer. My main field is TypeScript and JavaScript languages, as well as frameworks such as React (using Vite) and NextJS for the backend area. I have experience in working with websockets (socket.io)
-
 * 🌍  I'm based in Poland
 
 <a href="https://www.github.com/Fivlas" target="_blank" rel="noreferrer"><img
