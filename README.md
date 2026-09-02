@@ -5,7 +5,7 @@
 **Full Stack Developer** · Based in Warsaw, Poland 🇵🇱
 
 [![GitHub](https://www.shieldcn.dev/badge/GitHub-%40fivlas-181717.svg?logo=github&variant=branded&size=sm)](https://github.com/fivlas)
-[![Website](https://www.shieldcn.dev/badge/Website-portfolio.fivlas.dev-181717.svg?logo=ri%3ARiLuLink&variant=branded&size=sm)](https://portfolio.fivlas.dev)
+[![Website](https://www.shieldcn.dev/badge/Website-fivlas.dev-181717.svg?logo=ri%3ARiLuLink&variant=branded&size=sm)](https://fivlas.dev)
 [![Website](https://www.shieldcn.dev/badge/Website-docs.fivlas.dev-181717.svg?logo=ri%3ARiLuLink&variant=branded&size=sm)](https://docs.fivlas.dev)
 
 [![GitHub Followers](https://www.shieldcn.dev/github/followers/fivlas.svg?variant=secondary&size=sm)](https://github.com/fivlas?tab=followers)
